@@ -1,10 +1,16 @@
 
 # Starcraft2MatchPrediction
 
+## POSTER
+![image](https://user-images.githubusercontent.com/50991486/128304721-1543749f-4b0a-4cbe-98ec-bb402dc8e9be.jpg)
 
-![poster](https://user-images.githubusercontent.com/50991486/128304721-1543749f-4b0a-4cbe-98ec-bb402dc8e9be.jpg)
+![image](https://user-images.githubusercontent.com/50991486/128305793-230a4d02-23dd-45f3-9d57-b5f7ca8fa929.PNG)
 
-![image](https://user-images.githubusercontent.com/50912180/102563048-ce89ec80-411b-11eb-8e01-95d54366f692.png)
+## Collaborator
+* Seongho Moon
+* Jongsoo Lee
+* Jinu Noh
 
 
-![image](https://user-images.githubusercontent.com/50912180/102901791-60458100-44b1-11eb-8cf2-9ea38437e427.png)
+## LINK
+[DACON] (https://dacon.io/competitions/open/235675/)
