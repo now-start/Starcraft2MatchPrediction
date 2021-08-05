@@ -6,6 +6,9 @@
 
 ![image](https://user-images.githubusercontent.com/50991486/128305793-230a4d02-23dd-45f3-9d57-b5f7ca8fa929.PNG)
 
+![image](https://user-images.githubusercontent.com/50991486/128306777-b81af51e-6dd4-4675-889b-2721993df902.jpg)
+
+
 ## Collaborator
 * Seongho Moon
 * Jongsoo Lee
